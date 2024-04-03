@@ -31,7 +31,7 @@ global.packname = ''
 global.author = '𝘖𝘴𝘷𝘢𝘭𝘥𝘰𝘉𝘰𝘵'
 global.wm = '© 𝘖𝘴𝘷𝘢𝘭𝘥𝘰𝘉𝘰𝘵-MD'
 global.wm2 = '𝘖𝘴𝘷𝘢𝘭𝘥𝘰 : Bot'
-global.azami = '𝘖𝘴𝘷𝘢𝘭𝘥𝘰'
+global.Osvaldo = '𝘖𝘴𝘷𝘢𝘭𝘥𝘰'
 global.cb = '𝘖𝘴𝘷𝘢𝘭𝘥𝘰𝘉𝘰𝘵'
 
 //Aqui la versión y entre otros
