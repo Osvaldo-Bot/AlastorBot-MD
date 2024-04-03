@@ -1,16 +1,11 @@
-/*No seas rata, deja los creditos!
 
- Credits to:
-* AzamiJs
-* Elrebelde21
-* GataNina-Li */
 
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath, pathToFileURL } from 'url'
 
 global.owner = [
-['524531287294', 'CuriosityBot-MD 🍧', true], 
+['524531287294', '𝗧𝗛𝗘-𝗢𝗦𝗩𝗔𝗟𝗗𝗢-𝗕𝗢𝗧', true], 
 ['5492266466080', 'Owner 🍧', true], 
 ['5217294888993'], 
 ['00'], 
@@ -33,11 +28,11 @@ global.prems = []
 
 //Aqui encuentras los nombres del bot
 global.packname = ''
-global.author = 'CuriosityBot'
-global.wm = '© CuriosityBot-MD'
-global.wm2 = 'Curiosity : Bot'
-global.azami = 'Azami'
-global.cb = 'CuriosityBot'
+global.author = '𝘖𝘴𝘷𝘢𝘭𝘥𝘰𝘉𝘰𝘵'
+global.wm = '© 𝘖𝘴𝘷𝘢𝘭𝘥𝘰𝘉𝘰𝘵-MD'
+global.wm2 = '𝘖𝘴𝘷𝘢𝘭𝘥𝘰 : Bot'
+global.azami = '𝘖𝘴𝘷𝘢𝘭𝘥𝘰'
+global.cb = '𝘖𝘴𝘷𝘢𝘭𝘥𝘰𝘉𝘰𝘵'
 
 //Aqui la versión y entre otros
 global.vs = 'V2'
@@ -45,7 +40,7 @@ global.library = 'Baileys'
 global.baileys = '@whiskeysockets/baileys'
 global.lenguaje = 'Español'
 global.menudi = ['⛶','❏','⫹⫺']
-global.dev = '¿Azami ~ Zam?'
+global.dev = 'lonely'
 global.devnum = '+591 62714296'
 
 let file = fileURLToPath(import.meta.url)
